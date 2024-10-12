@@ -3,8 +3,8 @@
 #include <WebServer.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "Wokwi-GUEST";
-const char* password = "";
+const char* ssid = "Admin";
+const char* password = "1234456789";
 
 // API Endpoints
 const char* loginEndpoint = "https://meditracker-backend.onrender.com/api/users/login";

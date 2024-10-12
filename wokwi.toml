@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
 firmware = 'diagram.json'
-elf = 'build/example_app.elf'
+elf = 'sketch.ino.elf'
